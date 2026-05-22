@@ -104,14 +104,6 @@ that determined how quickly passengers could reach the lifeboats.
 
 ---
 
-## Next Steps
-
-- Build a predictive survival model (logistic regression, random forest)
-- Engineer additional features (fare-per-person, title extracted from name)
-- Apply the same workflow to the Kaggle test set for validation
-
----
-
 ## Dataset Source
 
 Titanic passenger data, originally from the
